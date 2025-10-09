@@ -1,4 +1,6 @@
 Here is test tasks:
+
+
 1. At first page, you should add sort function by price. There are two select items: 'low to high' and 'high to low'.
 2. At first page, you should convert current product's price to formatted price string for the Japanese Yen, including the currency symbol and commas (e.g., "¥2,999").
 3. At first page, you should convert products' arrangement style 4 X 3 to 3 X 4.
