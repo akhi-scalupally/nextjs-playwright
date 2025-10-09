@@ -34,5 +34,7 @@ yarn-error.log*
 .env
 .env.test
 
+/.playwright-temp
+
 # vercel
 .vercel
